@@ -67,7 +67,7 @@ BaselineOfDiscOrDance >> incompatiblePharoVersion: packageLoader [
 { #category : #'as yet unclassified' }
 BaselineOfDiscOrDance >> mocketry: spec [
 	spec baseline: 'Mocketry'
-		with: [ spec repository: 'github://dionisiydk/Mocketry:v4.0.x' ].
+		with: [ spec repository: 'github://dionisiydk/pharo8CI' ].
 ]
 
 { #category : #baselines }
